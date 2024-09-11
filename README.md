@@ -1,4 +1,4 @@
-## Hi there 👋
+## A person who doesn't know what to do
 
 <!--
 **Watchiiee/Watchiiee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
